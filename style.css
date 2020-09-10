@@ -1,0 +1,12 @@
+h1 {
+ color:  lightcoral;
+}
+.header{
+display:flex;
+background-color: black;
+justify-content: space-evenly;
+
+}
+.menu{
+    color:palevioletred
+}
